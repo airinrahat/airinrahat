@@ -22,10 +22,10 @@ Skills:  REACT / JS / HTML / CSS
 
 ## Connect with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal-hosen/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airinrahatprome@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airinrahatprome@gmail.com)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faysalhosen&theme=shadow-purple&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
+
 ## Three Recent Projects
 - Hostel Managemnt
     * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
