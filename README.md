@@ -7,7 +7,8 @@ Hi, I am Airin Rahat Promi, a Front End Web developer.i am is passionate about m
 Skills:  REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning javaScript 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on github
+
 
 ## Frequently used technologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
@@ -19,7 +20,12 @@ Skills:  REACT / JS / HTML / CSS
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=airinrahat&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=800&type=png" alt="GitHub Streak" /></a>
 
+## Connect with me!
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal-hosen/)[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:airinrahatprome@gmail.com)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faysalhosen&theme=shadow-purple&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 ## Three Recent Projects
 - Hostel Managemnt
     * Technologies Used: React JS, Express JS, Firebase, MongoDB, Node JS, Tailwind CSS, Daisy UI
