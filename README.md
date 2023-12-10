@@ -12,7 +12,7 @@ Skills:  REACT / JS / HTML / CSS
 ## Frequently used technologies:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongo,nodejs,git,figma)](https://skillicons.dev)
 
-###streak starts
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/airinrahat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/airinrahat)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airinrahat)](https://github.com/anuraghazra/github-readme-stats)
