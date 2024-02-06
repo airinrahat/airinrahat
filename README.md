@@ -1,8 +1,8 @@
 ![Front-End Developer](https://i.ibb.co/LYvbZcZ/githubbanner.png)
 
- ### Hello 👋, I am Ayrin Rahat Promi, a Front End Web developer. I am is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. 
+ ### Hello 👋, I am Ayrin Rahat Promi, a Front End Web developer. I am  passionate about making websites with client satisfaction. I have a passion for learning and sharing my knowledge with others. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. 
 
-Skills:  REACT / JS / HTML / CSS / Node.js /Next.js
+Skills:  REACT / JS / HTML / CSS / Node.js / Next.js
 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on github
