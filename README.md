@@ -1,4 +1,4 @@
-### Hello 👋, I am Airin Rahat Promi
+### Hello 👋, I am Ayrin Rahat Promi
 #### Front-End Developer
 ![Front-End Developer](https://i.ibb.co/LYvbZcZ/githubbanner.png)
 
